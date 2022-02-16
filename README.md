@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codeisneverodd&fontSize=90)
 
-
+<!-- 
 ## Activity
 ![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=default)
-![codeisneverodd's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeisneverodd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![codeisneverodd's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeisneverodd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact) -->
 
 ## Social
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=codeisneverodd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/codeisneverodd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
