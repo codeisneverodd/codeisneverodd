@@ -2,7 +2,8 @@
 
 
 ## Activity
-[![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=default)](https://github.com/codeisneverodd?tab=repositories)
+[![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=vue)](https://github.com/codeisneverodd?tab=repositories)
+[![codeisneverodd's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeisneverodd&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 [![codeisneverodd's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeisneverodd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/codeisneverodd?tab=repositories)
 
 ## Social
