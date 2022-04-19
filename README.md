@@ -1,5 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codeisneverodd&fontSize=90)](https://github.com/codeisneverodd)
+<!-- [![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codeisneverodd&fontSize=90)](https://github.com/codeisneverodd) -->
 
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codeisneverodd&fontSize=80&animation=twinkling&descAlignY=30)](https://github.com/codeisneverodd)
 
 ## Activity
 [![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=vue)](https://github.com/codeisneverodd?tab=repositories)
@@ -11,3 +12,5 @@
 
 ## Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cocdeisneverodd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/codeisneverodd)
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)]((https://github.com/codeisneverodd))
