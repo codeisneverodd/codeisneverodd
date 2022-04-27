@@ -8,7 +8,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=codeisneverodd&fontSize=80&animation=twinkling&descAlignY=30)](https://github.com/codeisneverodd)
 
 
-<h2><img src="https://user-images.githubusercontent.com/54318460/165488238-a2ac0b91-6df0-48e3-9fde-f75ccb793de7.gif" width="40">OpenSource Projects</h2> 
+<h1><img src="https://user-images.githubusercontent.com/54318460/165488238-a2ac0b91-6df0-48e3-9fde-f75ccb793de7.gif" width="40">OpenSource Projects</h1> 
 
 <table>
   <thead align="center">
@@ -34,17 +34,17 @@
 </table>
 
 
-<h2><img src="https://user-images.githubusercontent.com/54318460/165488592-7f099885-7379-4c4f-aebb-c3003365dd27.gif" width="40">Activity</h2> 
+<h1><img src="https://user-images.githubusercontent.com/54318460/165488592-7f099885-7379-4c4f-aebb-c3003365dd27.gif" width="40">Activity</h1> 
 
 [![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=vue)](https://github.com/codeisneverodd?tab=repositories)
 [![codeisneverodd's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeisneverodd&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 [![codeisneverodd's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codeisneverodd&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/codeisneverodd?tab=repositories)
 
-<h2><img src="https://user-images.githubusercontent.com/54318460/165488795-25a97840-4f7a-4e2e-a2a8-827b3951aef8.gif" width="40">Socials</h2> 
+<h1><img src="https://user-images.githubusercontent.com/54318460/165488795-25a97840-4f7a-4e2e-a2a8-827b3951aef8.gif" width="40">Social</h1> 
 
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=codeisneverodd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/codeisneverodd@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 
-<h2><img src="https://user-images.githubusercontent.com/54318460/165489076-eb9d1284-23b5-4513-a7b1-a520673de081.gif" width="40">Hits</h2> 
+<h1><img src="https://user-images.githubusercontent.com/54318460/165489076-eb9d1284-23b5-4513-a7b1-a520673de081.gif" width="40">Hits</h1> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/cocdeisneverodd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/codeisneverodd)
 
