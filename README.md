@@ -34,7 +34,7 @@
 </table>
 
 
-<h1><img src="https://user-images.githubusercontent.com/54318460/165488592-7f099885-7379-4c4f-aebb-c3003365dd27.gif" width="40">Activity</h1> 
+<h1><img src="https://user-images.githubusercontent.com/54318460/165490580-5014fa53-5de5-4d39-9042-3ea43ea607d5.gif" width="40">Activity</h1> 
 
 [![codeisneverodd's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeisneverodd&show_icons=true&theme=vue)](https://github.com/codeisneverodd?tab=repositories)
 [![codeisneverodd's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeisneverodd&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
